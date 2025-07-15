@@ -3,7 +3,7 @@ import Navbar from './components/Navbar.jsx'
 import Landing from './components/Landing.jsx'
 import Marquee from './components/Marquee.jsx'
 import Page3 from './components/Page3.jsx'
-import Page4 from './components/page4.jsx'
+import Page4 from './components/Page4.jsx'
 
 import Cartoon from './components/Cartoon.jsx'
 import Page5 from './components/Page5.jsx'
