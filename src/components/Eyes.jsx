@@ -17,9 +17,10 @@ function Eyes(){
       <div className='white-ball'>
                 <div className='black-ball'>
                     <div className='rotate' style={{transform:`translate(-50%,-50%) rotate(${ang}deg)`}}>
-                    <div className='dot'></div></div>
+                       <div className='dot'></div>
+                    </div>
                 </div>
-              </div>
+     </div>
 
     </>)
 }
